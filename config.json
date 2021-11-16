@@ -1,0 +1,10 @@
+{  
+    "port":7979,
+    "centx": 1261,
+    "centy": 1547,
+    "picWidth": 200,
+    "radiusMax" : 900,
+    "start":1,
+    "interval":2,
+    "processPath":"C:\\endoscope\\process"
+} 
